@@ -15,7 +15,8 @@
 ---
 
 ## Description
-  Is a backend application
+  This application is for an e-commerce back end. It is used to get, delete, Post.
+
 
 ---
 
@@ -25,22 +26,22 @@
 ---
 
 ## Installation
-  run mysql source the database and seed it 
+  run mysql source the database and seed it. Run the server file and then open in insomina
 
 ---
 
 ## Usage
-  Use it to keep track of inventory
+  Use it to keep track of inventory, Post and Get and Delete.
 
 ---
 
 ## Contributions
-  undefined
+  N/a
 
 ---
 
 ## Test
-  undefined
+  N/a
 
 ---
 
@@ -52,7 +53,7 @@
 
   mobleyj2@gmail.com
 
-  https://drive.google.com/file/d/1uv0NozGxvsjtVd_Ie4M48F_OG1dKvEBG/view
+https://drive.google.com/file/d/1xdObbNgUvUfZOocpRdhz2GNj_QKzxBKu/view
 
 ---
 

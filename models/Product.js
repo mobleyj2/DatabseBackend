@@ -20,7 +20,7 @@ Product.init(
       allowNull: false
     },
     price:{
-      type: DataTypes.DOUBLE,
+      type: DataTypes.DECIMAL(10,2),
       allowNull: false,
     },
     in_stock:{
@@ -33,7 +33,7 @@ Product.init(
       allowNull: false,
       reference: {
         model:'category',
-        key: 'key',
+        key: 'id',
       },
 
       },

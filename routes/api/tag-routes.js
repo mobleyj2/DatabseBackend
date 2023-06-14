@@ -20,7 +20,7 @@ router.get('/', (req, res) => {
   // be sure to include its associated Product data
 });
 
-router.get('id', (req, res) => {
+router.get('/:id', (req, res) => {
   Tag.findOne ({
 
     where:{
